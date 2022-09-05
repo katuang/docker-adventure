@@ -1,3 +1,3 @@
 # docker-adventure
 
-These are docker exercise
+These are docker exercises
